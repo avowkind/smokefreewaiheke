@@ -1,0 +1,4 @@
+baseURL = "http://smokefreewaiheke.org.nz/"
+languageCode = "en-us"
+title = "SmokeFree Waiheke"
+theme = "ananke"

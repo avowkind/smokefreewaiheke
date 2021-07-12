@@ -4,7 +4,7 @@ date: 2021-07-12T18:26:37+12:00
 draft: true
 ---
 
-# Being taken seriously
+## Being taken seriously
 
 It seems the first hurdle that people affected by SHS encounter is various forms of denial. Oh so you can smell my tobacco smoke, don't worry its: just vapour, not dangerous, too dilute to cause a problem, doesn't affect you, will pass by in a moment. Or you can - always move away, close a window, turn on a fan etc. etc.
 

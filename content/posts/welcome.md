@@ -4,7 +4,7 @@ date: 2021-07-12T18:23:13+12:00
 draft: true
 ---
 
-# You are responsible for the impact of your tobacco smoke.
+## You are responsible for the impact of your tobacco smoke
 
 This community is for anyone affected by Second Hand Smoke, Smoke Drift, vapes, etc. In fact any situation where someone else's voluntary, recreational activities create pollution that affects your own personal space.
 
